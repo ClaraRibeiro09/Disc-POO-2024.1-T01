@@ -14,5 +14,5 @@
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Professor:
 - Roger Moura Sarmento.
 
-##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Linguagem utilizada:
+## src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Linguagem utilizada:
 - Java.
