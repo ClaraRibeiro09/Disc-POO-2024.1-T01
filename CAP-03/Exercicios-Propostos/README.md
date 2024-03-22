@@ -1,7 +1,7 @@
 
 ## Enunciado das questões:
 
-1.Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo. 
+1. Faça um programa que receba dois números, calcule e mostre a subtração do primeiro número pelo segundo. 
 
 2. Faça um programa que receba três números, calcule e mostre a multiplicação desses números.
 
